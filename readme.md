@@ -12,7 +12,7 @@
 <br /> 
 
 
-<h3>✨ Tech Stack ✨</h3>
+<h2>✨ Tech Stack ✨</h2>
 <div>
   <span>✔ FE  - </span>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seacrab808&langs_count=10&layout=compact&theme=dark" alt="Top Langs" />
 </div>
 
-<h3>🛠 Tools 🛠</h3>
+<h2>🛠 Tools 🛠</h2>
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
