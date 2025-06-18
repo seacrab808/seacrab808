@@ -1,7 +1,6 @@
 <div align="center">
   <img width="700px" src="https://github.com/user-attachments/assets/02662ce4-bacf-4251-a3dc-b1c49e2ba932" />
 </div>
-<hr />
 
 <h2>💌 About me </h2>
 💻 I'm a software engineer passionate about JavaScript, Java, Web, and AI. <br /> 
@@ -45,10 +44,10 @@
 
 <br />
 
-<div>
-  <a href="https://github.com/seacrab808/seacrab808">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seacrab808&langs_count=10&layout=compact&theme=dark" alt="Top Langs" />
-  </a>
+<div align="center" style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=seacrab808&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seacrab808&langs_count=10&layout=compact&theme=dark" alt="Top Langs" />
 </div>
 
 <h3>🛠 Tools 🛠</h3>
