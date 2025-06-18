@@ -2,6 +2,7 @@
   <img width="700px" src="https://github.com/user-attachments/assets/02662ce4-bacf-4251-a3dc-b1c49e2ba932" />
 </div>
 
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -36,7 +37,13 @@
     <img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
 </div>
 
-<br>
+<br />
+
+<div align="center">
+  <a href="https://github.com/seacrab808/seacrab808">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seacrab808&langs_count=10&layout=compact&theme=dark" alt="Top Langs" />
+  </a>
+</div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
