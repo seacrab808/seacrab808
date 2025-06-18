@@ -64,8 +64,6 @@
   <a href="https://seacrab.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
-  <a href="seacrab808@naver.com">
-    <img
+<img
       src="https://img.shields.io/badge/seacrab808@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
-  </a>
 </div>
