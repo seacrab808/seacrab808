@@ -6,7 +6,7 @@
 💻 I'm a software engineer passionate about JavaScript, Java, Web, and AI. <br /> 
 🌏 Based in Seoul, South Korea.  <br /> 
 🌱 Currently diving into Java, Spring Framework, and database systems.  <br /> 
-📫 Reach me at: seacrab808@naver.com  <br /> 
+📫 Reach me at: <ins>seacrab808@naver.com</ins>  <br /> 
 😄 Fun fact: I speak Korean, English, and Japanese! <br /> 
 
 <br /> 
@@ -58,8 +58,3 @@
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
-
-<br>
-
-<h3>📫 Contact 📫</h3>
-e-mail : seacrab808@naver.com
