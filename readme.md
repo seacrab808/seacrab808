@@ -1,6 +1,16 @@
 <div align="center">
   <img width="700px" src="https://github.com/user-attachments/assets/02662ce4-bacf-4251-a3dc-b1c49e2ba932" />
 </div>
+<hr />
+
+<h2>Hi There ! </h2>
+💻 I'm a software engineer passionate about JavaScript, Java, Web, and AI. <br /> 
+🌏 Based in Seoul, South Korea.  <br /> 
+🌱 Currently diving into Java, Spring Framework, and database systems.  <br /> 
+📫 Reach me at: seacrab808@naver.com  <br /> 
+😄 Fun fact: I speak Korean, English, and Japanese! <br /> 
+
+<br /> 
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
