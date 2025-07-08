@@ -47,7 +47,7 @@
 <div align="center" style="display: flex; gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=seacrab808&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seacrab808&langs_count=8&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seacrab808&langs_count=9&layout=compact&theme=dark" alt="Top Langs" />
 </div>
 
 <h2>🛠 Tools 🛠</h2>
