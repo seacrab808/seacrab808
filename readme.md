@@ -3,7 +3,8 @@
 </div>
 
 <h2>💌 About me </h2>
-💻 I'm a software engineer with a passion for JavaScript, Java, web technologies, and AI. <br /> 
+🎓 M.S. Student in Computer Science and Engineering at Sogang University.
+💻 I'm a software engineer with a passion for web technologies, Blockchain and AI. <br /> 
 🌏 Based in Seoul, South Korea.  <br /> 
 🌱 Currently exploring JavaScript, Java, the Spring Framework, and database systems. <br /> 
 📫 Feel free to reach out : <ins>seacrab808@naver.com</ins>  <br /> 
