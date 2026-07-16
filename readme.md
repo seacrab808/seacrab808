@@ -5,7 +5,7 @@
 <h2>💌 About me </h2>
 🎓 M.S. Student in Computer Science and Engineering at Sogang University. <br />
 🌏 Based in Seoul, South Korea.  <br /> 
-🌱 Currently exploring JavaScript, Java, the Spring Framework, and database systems. <br /> 
+🌱 Currently exploring Edge AI, Federated Learning, and Distributed AI <br /> 
 📫 Feel free to reach out : <ins>seacrab808@naver.com</ins>  <br /> 
 😄 Fun fact: I speak Korean, English, and Japanese! <br /> 
 
